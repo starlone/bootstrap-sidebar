@@ -11,3 +11,5 @@
 /component.json
 /bower_components
 .bowerrc
+
+.DS_Store
