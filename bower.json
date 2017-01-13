@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-sidebar",
-  "version": "0.2.2",
+  "version": "0.2.3-alpha",
   "authors": [
     "Asyraf <asyraf9@gmail.com>"
   ],
@@ -27,6 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.1.1"
+    "bootstrap": "^3.3.7"
   }
 }
