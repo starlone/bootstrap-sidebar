@@ -121,7 +121,6 @@
       var $target = $('.sidebar');
       $target.each(function(i, trgt) {
         var $trgt = $(trgt);
-        x = $trgt;
         if($trgt.data('bs.sidebar') && $trgt.hasClass('sidebar-open') && !$trgt.hasClass('sidebar-noautohide')) {
             $trgt.sidebar('hide');
         }
@@ -129,4 +128,3 @@
     }
   });
 }(jQuery);
-var x;
